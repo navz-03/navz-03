@@ -1,14 +1,12 @@
-- 👋 Hi, I’m @navz-03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Greeting -->
+# Hey there! :wave::smiley:
 
+<!--Introduction -->
+I'm Naveen kumar! I'm a **AI enthusiastic**:robot:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **AI-ML project**, bulding **software** and **building a community** to help people. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+<br>
+
+<!--Tools-->
 ### Tech & Tools Preference
-
-
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
