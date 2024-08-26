@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Naveen kumar! I'm a **AI enthusiastic**:robot:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **AI-ML project**, bulding **software** and **building a community** to help people. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm Naveen kumar! I'm a **AI enthusiastic**:robot:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **AI-ML project**, bulding **software** and **a community** to help people. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 
 <!--Tools-->
